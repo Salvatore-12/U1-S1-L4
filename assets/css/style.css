@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Poppins:ital,wght@0,700;1,400;1,600&family=Prata&display=swap');
+body{
+margin: 0;
+padding: 0;
+background-image: url(/assets/img/sfondo.png);
+background-size: 500px auto;
+background-repeat: repeat-y;
+}
+
+h1,h2,h3{
+font-weight: bold;
+font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+#logo{
+    background-color: rgb(30, 138, 226);
+    text-align: center;
+    color: white;
+    padding: 10%;
+}
+#logo p{
+padding: 10%;
+}
+nav {
+ text-align: center;
+}
+nav ul {
+margin-left: 10px;
+padding: 10px;
+text-align: center;
+
+} 
+nav li {
+margin-bottom: 10px;
+}
+
+
+
+
+
+table th{
+     
+    background-color:#2044e5 ;
+    border:1px solid 
+	border-collapse:collapse
+}
+table td{
+margin-left: 100px;
+border: 1px;
+}
+
+div.newsletter{
+background-color: bisque;
+margin-bottom: 10px;
+}
+
+aside 
+div.article1 {
+    width:200%;
+    background-color: bisque;
+    margin-bottom: 10px;
+    box-sizing: border-box
+}
+div.article2{
+    width: 200%;
+    height: 200%;
+    background-color: bisque;
+    margin-bottom: 10px;
+    box-sizing: border-box
+}
+
+div.article3{
+    width: 200%;
+    background-color: bisque;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+} 
+
+footer{
+    
+background-color: rgb(3, 3, 58);
+color: white;
+text-align: center;
+height: 80px;
+}
